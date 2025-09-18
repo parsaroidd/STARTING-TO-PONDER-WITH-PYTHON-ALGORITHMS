@@ -1,4 +1,9 @@
 # STARTING-TO-PONDER-WITH-PYTHON-ALGORITHMS
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I UPLOADED TOO MUCH IT IS GETTING GONFUSING 
+.the final version 
+. i just made it much simpler, storing numbers of cells instead of x and y axis and used a list instead of dictionary.
+. i learned the basics of recursion and some cool stuff!
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 version 0.1 (yes it is less than 0 cuz it doesn't work.
 . this program knows all the possible moves
